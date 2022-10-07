@@ -1,1 +1,1 @@
-# domeneak-addison-p1
+This is a API that I've made that will show you a list of restaurants, their address, name, location, website, and star rating. I created this API following a great instructor following a tutorial video.
